@@ -1,0 +1,18 @@
+Номер,Название,Статус
+1,PEP Purpose and Guidelines,Active
+42,Feature Requests,Withdrawn
+20,The Zen of Python,Active
+13,Python Language Governance,Active
+2,Procedure for Adding New Modules,Active
+4,Deprecation of Standard Modules,Active
+100,Python Unicode Integration,Final
+3,Guidelines for Handling Bug Reports,Withdrawn
+12,Sample reStructuredText PEP Template,Active
+9,Sample Plaintext PEP Template,Withdrawn
+10,Voting Guidelines,Active
+6,Bug Fix Releases,Active
+11,CPython platform support,Active
+7,Style Guide for C Code,Active
+5,Guidelines for Language Evolution,Active
+8,Style Guide for Python Code,Active
+8104,2023 Term Steering Council election,Active

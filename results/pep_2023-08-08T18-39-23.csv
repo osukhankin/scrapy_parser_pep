@@ -1,0 +1,33 @@
+Номер,Название,Статус
+1,PEP Purpose and Guidelines,Active
+102,Doing Python Micro Releases,Superseded
+2,Procedure for Adding New Modules,Active
+201,Lockstep Iteration,Final
+160,Python 1.6 Release Schedule,Final
+4,Deprecation of Standard Modules,Active
+200,Python 2.0 Release Schedule,Final
+3,Guidelines for Handling Bug Reports,Withdrawn
+103,Collecting information about git,Withdrawn
+42,Feature Requests,Withdrawn
+101,Doing Python Releases 101,Active
+11,CPython platform support,Active
+13,Python Language Governance,Active
+20,The Zen of Python,Active
+100,Python Unicode Integration,Final
+12,Sample reStructuredText PEP Template,Active
+442,Safe object finalization,Final
+441,Improving Python ZIP Application Support,Final
+536,Final Grammar for Literal String Interpolation,Deferred
+500,A protocol for delegating datetime methods to their tzinfo implementations,Rejected
+501,General purpose string interpolation,Deferred
+483,The Theory of Type Hints,Final
+537,Python 3.7 Release Schedule,Final
+498,Literal String Interpolation,Final
+499,python -m foo should bind sys.modules['foo'] in addition to sys.modules['__main__'],Deferred
+482,Literature Overview for Type Hints,Final
+562,Module __getattr__ and __dir__,Final
+558,Defined semantics for locals(),Deferred
+560,Core support for typing module and generic types,Accepted
+561,Distributing and Packaging Type Information,Final
+543,A Unified TLS API for Python,Withdrawn
+559,Built-in noop(),Rejected
